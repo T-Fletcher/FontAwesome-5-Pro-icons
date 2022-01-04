@@ -5,7 +5,16 @@ A list of all icons available in Fontaweome 5.15, handy for auditing class lists
 
 These files are intended to provide a comprehensive list of all icons available in Fontawesome Pro 5.15, in several versions:
 
+ - all icons, without variants
  - free icons
  - pro icons
- - various versions of each icon e.g. solid, regular, light, brand etc, noting that not all icons are available in all styles
+ - all non-brand icons
+ - brand icons
  
+ The FA library has 1852 icons, of which the variants combine to make 7864 possible icons:
+ 
+ - Solid: 1852
+ - Regular: 1852
+ - Light: 1852
+ - Duotone: 1852
+ - Brands: 456
