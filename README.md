@@ -1,5 +1,5 @@
 # FontAwesome-5-Pro-icons
-A list of all icons available in Fontaweome 5.15, handy for auditing class lists used in FA Subsetter. Scraped from this page: https://fontawesome.com/v5.15/icons?d=listing&amp;p=99
+A list of all icons available in Fontaweome 5.15, handy for auditing class lists used in FA Subsetter. Scraped from this page: https://fontawesome.com/v5.15/icons?d=listing
 
 ## Purpose
 
