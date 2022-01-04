@@ -10,7 +10,7 @@ These files are intended to provide a comprehensive list of all icons available 
  - pro icons
  - brand icons (these don't appear anywhere else)
  
- The FA library has 1852 icons, of which the variants combine to make 7864 possible icons:
+ The FA library has 1852 core icons, of which the variants combine to make 7408 icons. Including Brands, there are 7864 possible icons:
  
  - Solid: 1852
  - Regular: 1852
