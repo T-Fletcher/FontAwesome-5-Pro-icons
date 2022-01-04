@@ -8,8 +8,7 @@ These files are intended to provide a comprehensive list of all icons available 
  - all icons, without variants
  - free icons
  - pro icons
- - all non-brand icons
- - brand icons
+ - brand icons (these don't appear anywhere else)
  
  The FA library has 1852 icons, of which the variants combine to make 7864 possible icons:
  
@@ -17,4 +16,4 @@ These files are intended to provide a comprehensive list of all icons available 
  - Regular: 1852
  - Light: 1852
  - Duotone: 1852
- - Brands: 456
+ - Brands (not included in the other font family icon sets): 456
